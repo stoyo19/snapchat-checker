@@ -5,8 +5,10 @@ A fast and simple tool to check the status or availability of Snapchat usernames
 ## Features
 
 * **Single Input Mode:** Enter any Snapchat username to check its status instantly.
-* **File Input Mode:** Check all usernames from data/input/usernames.
+* **File Input Mode:** Check all usernames from data/input/usernames one per line.
+* **Output Saver:** Saves each account to data/output/invalid.txt or valid.txt according to the username status.
 * **Multiple formats:** Checker accepts the formats - username and username:password.
+  
 
 ## Usage
 1. Install dependancies (installer.bat)
